@@ -2,12 +2,12 @@
 
 ![WiGig](https://img.shields.io/badge/WiGig-60GHz-blue?style=for-the-badge)
 ![DRL](https://img.shields.io/badge/Deep%20RL-DQN%20%7C%20PPO%20%7C%20A2C-purple?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge)
+![Python]("https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white")
 ![Handover](https://img.shields.io/badge/Intelligent%20Handover-red?style=for-the-badge)
 
 ---
 
-## ⚡ Project Highlights
+##  Project Highlights
 
 - Proposed a **generalizable DRL-based framework** for intelligent handover in indoor WiGig networks  
 - Designed a **gain-sensitive reward function** to handle small channel gain differences  
