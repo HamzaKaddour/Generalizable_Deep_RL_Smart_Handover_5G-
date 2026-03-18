@@ -2,7 +2,7 @@
 
 ![WiGig](https://img.shields.io/badge/WiGig-60GHz-blue?style=for-the-badge)
 ![DRL](https://img.shields.io/badge/Deep%20RL-DQN%20%7C%20PPO%20%7C%20A2C-purple?style=for-the-badge)
-![Python]("https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white")
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
 ![Handover](https://img.shields.io/badge/Intelligent%20Handover-red?style=for-the-badge)
 
 ---
