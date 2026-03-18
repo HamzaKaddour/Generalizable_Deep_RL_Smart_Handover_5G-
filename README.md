@@ -71,7 +71,7 @@ Traditional threshold-based handover methods fail in such dynamic environments.
 </p>
 
 <p align="center">
-  <img src="channel_model.png" width="750">
+  <img src="channel_model.PNG" width="900">
   <br>
   <b>Figure 2:</b> Mobility and channel modeling framework.
 </p>
