@@ -65,13 +65,13 @@ Traditional threshold-based handover methods fail in such dynamic environments.
 - Dynamic **LoS / NLoS channel modeling**
 
 <p align="center">
-  <img src="assets/room_layout.png" width="500">
+  <img src="room.PNG" width="500">
   <br>
   <b>Figure 1:</b> Indoor WiGig environment.
 </p>
 
 <p align="center">
-  <img src="assets/mobility_channel_framework.png" width="750">
+  <img src="channel_model.png" width="750">
   <br>
   <b>Figure 2:</b> Mobility and channel modeling framework.
 </p>
