@@ -32,7 +32,7 @@ A **novel reward function** is introduced to amplify channel gain differences an
 
 ---
 
-## 🚀 Key Contributions
+##  Key Contributions
 
 - First study on **multi-user indoor WiGig handover using DRL**
 - Introduced a **channel-gain-aware reward mechanism**
@@ -112,11 +112,7 @@ Traditional threshold-based handover methods fail in such dynamic environments.
 - Maximize QoS  
 - Minimize unnecessary handovers  
 
-<p align="center">
-  <img src="assets/rl_framework.png" width="650">
-  <br>
-  <b>Figure 3:</b> RL-based handover framework.
-</p>
+
 
 ---
 
@@ -157,6 +153,24 @@ Evaluated:
 #  Results
 
 ##  Before Hyperparameter Tuning
+
+<p align="center">
+  <img src="A2C.png" width="650">
+  <br>
+  <b>Figure 3:</b> RL-based handover framework.
+</p>
+
+<p align="center">
+  <img src="PPO.png" width="650">
+  <br>
+  <b>Figure 3:</b> RL-based handover framework.
+</p>
+
+<p align="center">
+  <img src="DQN.png" width="650">
+  <br>
+  <b>Figure 3:</b> RL-based handover framework.
+</p>
 
 | Agent | Avg Rolling Reward | Convergence Time (s) | FPS |
 |------|--------------------|---------------------|-----|
